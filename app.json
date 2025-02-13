@@ -1,13 +1,13 @@
 {
-  "name": "TG File Store/Sharing Bot",
-  "description": "file sharing bot store posts and it can access by special links",
+  "name": "Jilbab New Collection File Bot",
+  "description": "tempat untuk menyimpan kebutuhanmu",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/TitanXBots/FileStore-Bot",
-  "logo": "https://envs.sh/pNw.jpg",
+  "repository": "https://github.com/aditwisteria/jncbotv3",
+  "logo": "https://envs.sh/ot.png",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "5356695781"
+      "value": "7482838418"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",

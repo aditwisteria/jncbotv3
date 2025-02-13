@@ -68,11 +68,11 @@
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
-      "value": "False",
+      "value": "True",
       "required": false
     },
     "FILE_AUTO_DELETE": {
-        "description": "auto delete in seconds",
+        "description": "auto terhapus dalam detik",
         "value": "60",
         "required": false
     }
@@ -84,8 +84,8 @@
   ],
   "formation": {
     "worker": {
-      "quantity": 1,
-      "size": "free"
+      "quantity": 8,
+      "size": "eco"
     }
   }
 }
